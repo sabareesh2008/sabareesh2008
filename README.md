@@ -182,7 +182,7 @@ College task assignment and **screenshot submission system**.
 
 <div align="center">
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/sabareesh_karikalan">
 
 <img src="https://leetcard.jacoblin.cool/sabareesh2008?theme=dark&font=Karma&ext=heatmap" width="700" alt="LeetCode Statistics"/>
 
