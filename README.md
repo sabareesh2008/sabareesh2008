@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/sabareesh2008">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 &nbsp;
